@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Models/crack_segmentation_fold0.onnx
+/Models/crack_segmentation_fold0.onnx.data
