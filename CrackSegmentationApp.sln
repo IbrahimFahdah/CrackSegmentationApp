@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11312.210 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackSegmentationApp", "CrackSegmentationApp.csproj", "{0842995E-0E44-8DA0-AD05-73289B3F329E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0842995E-0E44-8DA0-AD05-73289B3F329E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0842995E-0E44-8DA0-AD05-73289B3F329E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0842995E-0E44-8DA0-AD05-73289B3F329E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0842995E-0E44-8DA0-AD05-73289B3F329E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C3BBA5-6ECF-41E8-876D-E40AF93D749B}
+	EndGlobalSection
+EndGlobal
